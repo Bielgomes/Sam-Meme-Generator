@@ -3,16 +3,13 @@
 
 Uma api simples para a geração de memes no estilo da sam (South America Memes).
 
-
-
+#
 
 ## Como utilizar
 
 #### Retorna um meme
 
-```http
-  GET /api/v1/generator?base=${base}&logo=${logo}&logo_pos=${logo_pos}&text=${text}&meme_quality=${meme_quality}&logo_opacity=${logo_opacity}
-```
+#### GET /api/v1/generator?base=${base}&logo=${logo}&logo_pos=${logo_pos}&text=${text}&meme_quality=${meme_quality}&logo_opacity=${logo_opacity}
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
