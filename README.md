@@ -3,8 +3,6 @@
 
 Uma api simples para a geração de memes no estilo da sam (South America Memes).
 
-#
-
 ## Como utilizar
 
 #### Retorna um meme
@@ -65,8 +63,6 @@ random
 | `logo_opacity`      | `int` | **Obrigatório**. Opacidade da logo |
 
 #### Meme_quality e logo_opacity tem 100 como máximo.
-
-#
 
 ## Download do meme
 
