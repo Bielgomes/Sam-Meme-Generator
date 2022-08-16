@@ -1,13 +1,14 @@
 
-# API SAM GENERETOR
+# SAM MEME GENERETOR
+<img src="https://i.imgur.com/N8ELvIL.gif">
 
-Uma api simples para a geração de memes no estilo da sam (South America Memes).
+Sam meme generator é api simples para a geração de memes no estilo da sam (South America Memes).
 
-## Como utilizar
+## DOCUMENTAÇÃO
 
-#### Retorna um meme
+### Retorna um meme
 
-#### GET /api/v1/generator?base=${base}&logo=${logo}&logo_pos=${logo_pos}&text=${text}&meme_quality=${meme_quality}&logo_opacity=${logo_opacity}
+# GET /api/v1/generator?base=${base}&logo=${logo}&logo_pos=${logo_pos}&text=${text}&meme_quality=${meme_quality}&logo_opacity=${logo_opacity}
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
@@ -64,6 +65,6 @@ random
 
 #### Meme_quality e logo_opacity tem 100 como máximo.
 
-## Download do meme
+### Download do meme
 
 #### GET /api/v1/generator/download?....
