@@ -1,8 +1,18 @@
 
 # SAM MEME GENERETOR
 <img src="https://i.imgur.com/N8ELvIL.gif">
-
 Sam meme generator é api simples para a geração de memes no estilo da sam (South America Memes).
+
+## Funcionalidades
+- Gerar memes customizados;
+- Permiti o Download dos mesmos.
+
+## Tecnologias Utilizadas
+- Flask
+- Pillow
+
+## Links
+<a href="https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate">Design</a>
 
 ## DOCUMENTAÇÃO
 
