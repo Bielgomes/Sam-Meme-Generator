@@ -8,7 +8,7 @@ Sam meme generator é api simples para a geração de memes no estilo da sam (So
 
 ### Retorna um meme
 
-# GET /api/v1/generator?base=${base}&logo=${logo}&logo_pos=${logo_pos}&text=${text}&meme_quality=${meme_quality}&logo_opacity=${logo_opacity}
+#### GET /api/v1/generator?base=${base}&logo=${logo}&logo_pos=${logo_pos}&text=${text}&meme_quality=${meme_quality}&logo_opacity=${logo_opacity}
 
 | Parâmetro   | Tipo       | Descrição                                   |
 | :---------- | :--------- | :------------------------------------------ |
