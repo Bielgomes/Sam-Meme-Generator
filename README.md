@@ -5,7 +5,7 @@ Sam meme generator é api simples para a geração de memes no estilo da sam (So
 
 ## Funcionalidades
 - Gerar memes customizados;
-- Permiti o Download dos mesmos.
+- Permite o Download dos mesmos.
 
 ## Tecnologias Utilizadas
 - Flask
